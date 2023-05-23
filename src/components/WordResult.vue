@@ -41,12 +41,12 @@
           <p class="mt-3 text-2xl text-purple-600">{{word.phonetic}}</p>
         </div>
        <!-- play button -->
-       <button  class="flex ext-white h-12 w-12 opacity-100 bg-purple-300 hover:bg-purple-400 font-medium rounded-full text-sm px-4 py-4 text-center dark:bg-purple-300 dark:hover:bg-purple-400 ">
+       <!-- <button  class="flex ext-white h-12 w-12 opacity-100 bg-purple-300 hover:bg-purple-400 font-medium rounded-full text-sm px-4 py-4 text-center dark:bg-purple-300 dark:hover:bg-purple-400 ">
           <p class="text-purple-600 hover">  
             <i class="bi bi-play-fill"></i>
           </p>
           <span class="sr-only"></span>
-        </button>
+        </button> -->
       </div>
 
       <!-- line seperator -->
